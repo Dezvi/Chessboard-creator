@@ -1,6 +1,6 @@
 # Chessboard-creator
 
-With this tools you will be able to create chessboard like this ones:
+With this tool you will be able to create chessboard like this ones:
 
 ![Classic chessboard](./images/chessboard.png)  
   
